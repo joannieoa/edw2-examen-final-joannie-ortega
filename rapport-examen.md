@@ -95,4 +95,4 @@ De plus, il est plus facile pour l'enseignant d'y avoir accès.
 Honnêtement, je n'ai pas rencontré de difficultés. Par contre il est vrai que j'ai presque oublier de créer un nouveau remote et j'aurais tout envoyer sur le dépôt du prof.
 Ici, l'importance d'utiliser les commandes `git remote -v`, par exemple.
 
-Donc, j'ai juste vériier que tout mes fichier était dans mon dépôt GitHub et que c'était public. Aussi que mon URL sur N0C affichait correctement sur la navigateur. 
+Donc, j'ai juste vérifier que tout mes fichier était dans mon dépôt GitHub et que c'était public. Aussi que mon URL sur N0C affichait correctement sur le navigateur. 
