@@ -9,7 +9,7 @@
 ## Liens publics
 
 - `Dépôt GitHub:` https://github.com/joannieoa/edw2-examen-final-joannie-ortega/tree/main
-- `Site déployé sur N0C:` edw2-examen-final-joannie.e2495411.webdevmaisonneuve.ca
+- `Site déployé sur N0C:` https://edw2-examen-final-joannie.e2495411.webdevmaisonneuve.ca/
 
 ## Étapes réalisées
 
@@ -93,6 +93,6 @@ De plus, il est plus facile pour l'enseignant d'y avoir accès.
 ## Difficultés rencontrées
 
 Honnêtement, je n'ai pas rencontré de difficultés. Par contre il est vrai que j'ai presque oublier de créer un nouveau remote et j'aurais tout envoyer sur le dépôt du prof.
-Ici, l'importance d'utiliser les commandes git remote -v et ect.
+Ici, l'importance d'utiliser les commandes `git remote -v`, par exemple.
 
 Donc, j'ai juste vériier que tout mes fichier était dans mon dépôt GitHub et que c'était public. Aussi que mon URL sur N0C affichait correctement sur la navigateur. 
