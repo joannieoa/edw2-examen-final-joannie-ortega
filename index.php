@@ -1,5 +1,5 @@
 <?php
-$nomEtudiant = "À remplacer par votre nom";
+$nomEtudiant = "";
 
 $titre = "Examen final EDW2";
 $sousTitre = "Déploiement d’un projet PHP existant sur N0C";
@@ -37,7 +37,7 @@ $notions = [
             </p>
 
             <div class="bloc-nom">
-                <strong>Déployé par :</strong>
+                <strong>Déployé par : Examen final EDW2 - Joannie Ortega Alvarenga </strong>
                 <span><?= htmlspecialchars($nomEtudiant) ?></span>
             </div>
 
